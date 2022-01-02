@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347499078439",
+    "project_id": "food-planner-cc36b",
+    "storage_bucket": "food-planner-cc36b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347499078439:android:866f1d97ca0e42462e7f02",
+        "android_client_info": {
+          "package_name": "com.anatari.food_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347499078439-fbg2rsn8qu73cb5gbgf7jvpgmcaij11e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfWa-BKPz5-sJoCvp-vpYhHWezWYhGr58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347499078439-fbg2rsn8qu73cb5gbgf7jvpgmcaij11e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
